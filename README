@@ -1,0 +1,35 @@
+🚀 Kubernetes Playground
+This project is a hands-on Kubernetes playground designed for learning, testing, and experimenting with Kubernetes concepts. It includes sample configurations, YAML manifests, and deployment strategies to simulate real-world microservice architectures.
+
+🔧 Features
+Sample deployments, services, and pods
+
+ConfigMaps, Secrets, and Volumes examples
+
+Ingress setup and load balancing
+
+Horizontal Pod Autoscaler (HPA) basics
+
+Integration with Docker and Helm
+
+Optional support for Spring Boot microservices
+
+📦 Technologies Used
+Kubernetes (Minikube or Cloud-based)
+
+Docker
+
+Spring Boot (optional)
+
+Helm (optional)
+
+YAML configuration files
+
+💡 Use Cases
+Learn and practice Kubernetes basics
+
+Test deployment strategies and service discovery
+
+Explore CI/CD and GitOps workflows
+
+Build custom test environments locally or in the cloud
